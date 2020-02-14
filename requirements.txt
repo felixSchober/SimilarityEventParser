@@ -1,0 +1,5 @@
+argparse
+python-evtx
+tqdm
+scikit-learn
+pandas 
